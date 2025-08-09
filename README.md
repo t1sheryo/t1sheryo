@@ -5,9 +5,9 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working at [Innowise](https://innowise.com/) as Java Intern and improving my **pet projects**
-- 🌱 Exploring advanced **Java & Spring Boot** features
-- 🤝 Strong team player with excellent communication skills, adaptability, and a proactive mindset
+- 🔭 <samp>Currently working at [Innowise](https://innowise.com/) as Java Intern and improving my **pet projects**<samp/>
+- 🌱 <samp>Exploring advanced **Java & Spring Boot** features<samp/>
+- 🤝 <samp>Strong team player with excellent communication skills, adaptability, and a proactive mindset<samp/>
 
 ---
 
@@ -59,4 +59,3 @@
   <a href="https://twitter.com/t1sher_"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/t1sheryo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
