@@ -51,6 +51,19 @@
 
 ---
 
+### 🌍 Languages
+<p>
+  <img src="https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Belarusian-Native-red?style=for-the-badge&logo=google-translate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-C1-yellow?style=for-the-badge&logo=google-translate&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://cert.efset.org/en/iP4K97">
+    <img src="https://img.shields.io/badge/📜%20Сертификат%20EFSET%20(C1%20Advanced)-8A2BE2?style=for-the-badge&logo=academia&logoColor=white&labelColor=4B0082" height="60" />
+  </a>
+</p>
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/timofey-cheberuk-040ba4314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
