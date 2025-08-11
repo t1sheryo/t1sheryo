@@ -54,7 +54,7 @@
 ### 🌍 Languages
 <p>
   <img src="https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge&logo=google-translate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Belarusian-Native-red?style=for-the-badge&logo=google-translate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Belarussian-Native-red?style=for-the-badge&logo=google-translate&logoColor=white" />
   <img src="https://img.shields.io/badge/English-C1-yellow?style=for-the-badge&logo=google-translate&logoColor=white" />
 </p>
 
