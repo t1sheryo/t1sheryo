@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 <samp>Currently working at ?<samp/>
+- 🔭 <samp>Currently working at T-Bank<samp/>
 - 🌱 <samp>Working on my **pet projects**<samp/>
 - 🤝 <samp>Strong team player with excellent communication skills, adaptability, and a proactive mindset<samp/>
 
